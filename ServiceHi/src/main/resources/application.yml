@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: service-hi
+  zipkin:
+    base-url: http://peer1:9411
+server:
+  port: 6001
